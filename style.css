@@ -31,7 +31,7 @@ header {
     justify-content: center;
     padding: 20px;
 
-    background-image: url(hair.jpeg);
+    background-image: url(assests/hair.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -331,7 +331,7 @@ nav {
     padding: 50px 20px;
     display: flex;
     background-color: rgb(241, 237, 233);
-    cursor: url(demo-watch-img-01.png);
+    cursor: url(assests/demo-watch-img-01.png);
 
 }
 
@@ -708,14 +708,14 @@ nav {
     height: 380px;
     border-radius: 10px;
     box-shadow: 0px 0px 10px 0px grey;
-    background-image: url(image1-1.png);
+    background-image: url(assests/image1-1.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
 }
 
 .image:hover {
-    background-image: url(image1.png);
+    background-image: url(assests/image1.png);
     transition: 1s;
 
 }
@@ -842,14 +842,14 @@ nav {
     height: 380px;
     border-radius: 10px;
     box-shadow: 0px 0px 10px 0px grey;
-    background-image: url(image2-2.png);
+    background-image: url(assests/image2-2.png);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
 
 .image1:hover {
-    background-image: url(image2.png);
+    background-image: url(assests/image2.png);
     transition: 1s;
 }
 
@@ -986,14 +986,14 @@ nav {
     height: 380px;
     border-radius: 10px;
     box-shadow: 0px 0px 10px 0px grey;
-    background-image: url(image3-3.png);
+    background-image: url(assests/image3-3.png);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
 
 .image2:hover {
-    background-image: url(image3.png);
+    background-image: url(assests/image3.png);
     transition: 1s;
 }
 
@@ -1090,14 +1090,14 @@ nav {
     height: 380px;
     border-radius: 10px;
     box-shadow: 0px 0px 10px 0px grey;
-    background-image: url(image4-4.png);
+    background-image: url(assests/image4-4.png);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
 
 .image3:hover {
-    background-image: url(image4.png);
+    background-image: url(assests/image4.png);
     transition: 1s;
 }
 
@@ -1199,14 +1199,14 @@ nav {
     height: 380px;
     border-radius: 10px;
     box-shadow: 0px 0px 10px 0px grey;
-    background-image: url(black1.png);
+    background-image: url(assests/black1.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
 }
 
 .image-next:hover {
-    background-image: url(black1-1.png);
+    background-image: url(assests/black1-1.png);
     transition: 1s;
 
 }
@@ -1333,14 +1333,14 @@ nav {
     height: 380px;
     border-radius: 10px;
     box-shadow: 0px 0px 10px 0px grey;
-    background-image: url(grey4.png);
+    background-image: url(assests/grey4.png);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
 
 .image-next1:hover {
-    background-image: url(grey4-4.png);
+    background-image: url(assests/grey4-4.png);
     transition: 1s;
 }
 
@@ -1477,14 +1477,14 @@ nav {
     height: 380px;
     border-radius: 10px;
     box-shadow: 0px 0px 10px 0px grey;
-    background-image: url(blue1.png);
+    background-image: url(assests/blue1.png);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
 
 .image-next2:hover {
-    background-image: url(blue2-2.png);
+    background-image: url(assests/blue2-2.png);
     transition: 1s;
 }
 
@@ -1581,14 +1581,14 @@ nav {
     height: 380px;
     border-radius: 10px;
     box-shadow: 0px 0px 10px 0px grey;
-    background-image: url(brown3.png);
+    background-image: url(assests/brown3.png);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
 
 .image-next3:hover {
-    background-image: url(brown3-3.png);
+    background-image: url(assests/brown3-3.png);
     transition: 1s;
 }
 
