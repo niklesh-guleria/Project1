@@ -2010,8 +2010,22 @@ nav {
     position: absolute;
     bottom: 0px;
     z-index: 3;
+    display: flex;
     background-color: rgba(30, 29, 29, 0.739);
 }
+.footer_content ul li{
+    list-style: none;
+}
+.footer_content ul li a{
+    text-decoration: none;
+    color: white;
+}
+
+
+
+
+
+
 .footer_image{
     width: 500px;
     height: 500px;
